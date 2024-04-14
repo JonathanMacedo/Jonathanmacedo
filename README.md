@@ -34,23 +34,27 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmacedo&layout=compact&theme=vision-friendly-dark" alt="Jonathan Macedo most languages"/>    
 <br>
 
-## ✉ Contact
+## 📱 Social Links
 
 <a href="https://www.linkedin.com/in/jonathan-macedo-10182b274/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-JonathanMacedo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>                                                                                                                                                                                                                                                                                                                                                                                <a href="https://youtube.com/@JonathanMacedo-qc5yu?si=liEV945OXSnJUSeZ" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Jonathan Macedo-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>  
-                                                                                                                                                                                          <a href = "mailto:jonathanmacedocontato@gmail.com">
-<img align="center" src="https://img.shields.io/badge/-Jonathan Macedo-05122A?style=flat&logo=gmail" target="_blank">
-</a>
+</a>                                                                                                                                                                                      
+
 <a href="https://twitter.com/Dev_Jonathanm" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Jonathan Macedo-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 
-<br>
+<a href="https://youtube.com/@JonathanMacedo-qc5yu?si=liEV945OXSnJUSeZ" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Jonathan Macedo-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>  
+                                                                                                                                                                                          
 
-                                                                                                                                                                                                                                                                                                                                                                                   
+
+## ✉ Contact
+                                                                                                                                                                                          
+<a href = "mailto:jonathanmacedocontato@gmail.com">
+<img align="center" src="https://img.shields.io/badge/-Jonathan Macedo-05122A?style=flat&logo=gmail" target="_blank">
+</a>                                                                                                                                                                                                                                                                                                                                                                                   
 
                                                                                                                                                                                                                                                                                                                                                                                  
 
