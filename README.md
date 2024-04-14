@@ -1,6 +1,5 @@
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jonathan Macedo </h1>
 
-<img align="right" height="500px" src="https://raw.githubusercontent.com/gist/JonathanMacedo/8dbf28571b842a862b3a0d559f3edbe8/raw/64ae903838a26758edd9a388907866d29350337a/githhubcard.svg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanmacedo&color=blue" alt="Profile views" /> </p>
 
