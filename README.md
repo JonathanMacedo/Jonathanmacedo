@@ -1,4 +1,5 @@
 ## Bem-vindo(a) ao meu perfil 🧐
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JonathanMacedo/8dbf28571b842a862b3a0d559f3edbe8/raw/64ae903838a26758edd9a388907866d29350337a/githhubcard.svg"/>
 <div> <a href="https://github.com/jonathanmacedo"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanmacedo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
 <br>
