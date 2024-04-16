@@ -7,7 +7,7 @@
 
 - 🕵️‍♂️ I'm looking for a job
 
-- 🎥 I post from time to time [youtube.com/JonathanMacedo](https://youtube.com/@JonathanMacedo-qc5yu?si=liEV945OXSnJUSeZ)
+- 🎥 I post from time to time [youtube.com/DevSemStack](https://www.youtube.com/channel/UCM1sUvS6bcJxab1QcSkV49g)
 
 - 🤯 I know languages ​​like **HTML, CSS,  JavaScript, React, Node.JS, MySQL**
 
