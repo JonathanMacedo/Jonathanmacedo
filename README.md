@@ -7,7 +7,7 @@
 
 - 🕵️‍♂️ I'm looking for a job
 
-- 🎥 I post from time to time [youtube.com/DevSemStack](https://www.youtube.com/channel/UCM1sUvS6bcJxab1QcSkV49g)
+- 🎥 I am the owner of Dev Sem Stack [youtube.com/DevSemStack](https://www.youtube.com/channel/UCM1sUvS6bcJxab1QcSkV49g)
 
 - 🤯 I know languages ​​like **HTML, CSS,  JavaScript, React, Node.JS, MySQL**
 
