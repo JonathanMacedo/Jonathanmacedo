@@ -52,7 +52,7 @@
 
 ## ✉ Contact
                                                                                                                                                                                           
-<a href = "mailto:jonathanmacedocontato@gmail.com">
+<a href = "mailto:devsemstackcontato@gmail.com">
 <img align="center" src="https://img.shields.io/badge/-Jonathan Macedo-05122A?style=flat&logo=gmail" target="_blank">
 </a>                                                                                                                                                                                                                                                                                                                                                                                   
 
