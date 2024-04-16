@@ -53,7 +53,7 @@
 ## ✉ Contact
                                                                                                                                                                                           
 <a href = "mailto:devsemstackcontato@gmail.com">
-<img align="center" src="https://img.shields.io/badge/-Jonathan Macedo-05122A?style=flat&logo=gmail" target="_blank">
+<img align="center" src="https://img.shields.io/badge/-Dev Sem Stack-05122A?style=flat&logo=gmail" target="_blank">
 </a>                                                                                                                                                                                                                                                                                                                                                                                   
 
                                                                                                                                                                                                                                                                                                                                                                                  
