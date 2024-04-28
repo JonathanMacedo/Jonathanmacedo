@@ -44,8 +44,8 @@
   <img align="center" src="https://img.shields.io/badge/-Jonathan Macedo-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 
-<a href="https://youtube.com/@JonathanMacedo-qc5yu?si=liEV945OXSnJUSeZ" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Jonathan Macedo-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="https://youtube.com/@devsemstack?si=xfLoSYDIjLWNXHXS" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Dev Sem Stack-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>  
                                                                                                                                                                                           
 
