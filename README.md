@@ -9,7 +9,7 @@
 
 - 🎥 I am the owner of Dev Sem Stack [youtube.com/DevSemStack](https://www.youtube.com/channel/UCM1sUvS6bcJxab1QcSkV49g)
 
-- 🤯 I know languages ​​like **HTML, CSS,  JavaScript, React, Node.JS, MySQL**
+- 🤯 I know languages ​​like ** React, Node.JS, JavaScript, HTML, CSS, MySQL, MongoDB**
 
 <br>
 
