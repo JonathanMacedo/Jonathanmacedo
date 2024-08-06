@@ -7,8 +7,6 @@
 
 - 🕵️‍♂️ I'm looking for a job
 
-- 🎥 I am the owner of Dev Sem Stack [youtube.com/DevSemStack](https://www.youtube.com/channel/UCM1sUvS6bcJxab1QcSkV49g)
-
 - 🤯 I know languages ​​like ** React, Node.JS, JavaScript, HTML, CSS, MySQL, MongoDB**
 
 <br>
@@ -39,21 +37,12 @@
 <a href="https://www.linkedin.com/in/jonathan-macedo-10182b274/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-JonathanMacedo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>                                                                                                                                                                                      
-
-<a href="https://twitter.com/Dev_Jonathanm" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Jonathan Macedo-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-
-<a href="https://youtube.com/@devsemstack?si=xfLoSYDIjLWNXHXS" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Dev Sem Stack-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>  
-                                                                                                                                                                                          
-
+                                                                                                                                                                                    
 
 ## ✉ Contact
                                                                                                                                                                                           
-<a href = "mailto:devsemstackcontato@gmail.com">
-<img align="center" src="https://img.shields.io/badge/-Dev Sem Stack-05122A?style=flat&logo=gmail" target="_blank">
+<a href = "mailto:jonathanmacedocontato@gmail.com">
+<img align="center" src="https://img.shields.io/badge/-Jonathan Macedo-05122A?style=flat&logo=gmail" target="_blank">
 </a>                                                                                                                                                                                                                                                                                                                                                                                   
 
                                                                                                                                                                                                                                                                                                                                                                                  
