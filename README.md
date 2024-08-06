@@ -1,4 +1,4 @@
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jonathan Macedo </h1>
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jonathan Macedo! </h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanmacedo&color=blue" alt="Profile views" /> </p>
@@ -7,7 +7,7 @@
 
 - 🕵️‍♂️ I'm looking for a job
 
-- 🤯 I know languages ​​like ** React, Node.JS, JavaScript, HTML, CSS, MySQL, MongoDB **
+- 🤯 I know languages ​​like React, Node.JS, JavaScript, HTML, CSS, MySQL, MongoDB 
 
 <br>
 
