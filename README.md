@@ -7,7 +7,7 @@
 
 - 🕵️‍♂️ I'm looking for a job
 
-- 🤯 I know languages ​​like ** React, Node.JS, JavaScript, HTML, CSS, MySQL, MongoDB**
+- 🤯 I know languages ​​like ** React, Node.JS, JavaScript, HTML, CSS, MySQL, MongoDB **
 
 <br>
 
