@@ -1,17 +1,16 @@
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jonathan Macedo! </h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Jonathan Macedo.</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanmacedo&color=blue" alt="Visualizações do perfil" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanmacedo&color=blue" alt="Profile views" /> </p>
+- 🧐 Desenvolvedor Full-Stack
 
-- 🧐 Full-Stack Developer
+- 🕵️‍♂️ Estou procurando um emprego
 
-- 🕵️‍♂️ I'm looking for a job
-
-- 🤯 I know languages ​​like React, Node.JS, JavaScript, HTML, CSS, MySQL, MongoDB 
+- 🤯 Conheço linguagens como React, Node.JS, JavaScript, HTML, CSS, MySQL, MongoDB
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tecnologias 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -32,14 +31,14 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmacedo&layout=compact&theme=vision-friendly-dark" alt="Jonathan Macedo most languages"/>    
 <br>
 
-## 📱 Social Links
+## 📱 Links Sociais
 
 <a href="https://www.linkedin.com/in/jonathan-macedo-10182b274/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-JonathanMacedo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>                                                                                                                                                                                      
                                                                                                                                                                                     
 
-## ✉ Contact
+## ✉ Contato
                                                                                                                                                                                           
 <a href = "mailto:jonathanmacedocontato@gmail.com">
 <img align="center" src="https://img.shields.io/badge/-Jonathan Macedo-05122A?style=flat&logo=gmail" target="_blank">
