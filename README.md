@@ -33,7 +33,7 @@
 
 ## 📱 Links Sociais
 
-<a href="https://www.linkedin.com/in/jonathan-macedo-10182b274/" target="_blank">
+<a href="https://www.linkedin.com/in/jonathan-macedo-10182b274/" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://img.shields.io/badge/-JonathanMacedo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>                                                                                                                                                                                      
                                                                                                                                                                                     
