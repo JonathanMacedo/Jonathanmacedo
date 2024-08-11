@@ -8,6 +8,8 @@
 
 - 🤯 Conheço linguagens como React, Node.JS, JavaScript, HTML, CSS, MySQL, MongoDB
 
+- ✍ Postarei regularmente o que estou aprendendo
+
 <br>
 
 ## 🛠 &nbsp;Tecnologias 
