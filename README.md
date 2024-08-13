@@ -6,7 +6,7 @@
 
 - 🕵️‍♂️ Estou procurando um emprego
 
-- 🤯 Conheço linguagens como React, Node.JS, JavaScript, HTML, CSS, MySQL, MongoDB
+- 🤯 Conheço linguagens como React.js, Node.js, JavaScript, HTML, CSS, MySQL, MongoDB
 
 - ✍ Postarei regularmente o que estou aprendendo
 
