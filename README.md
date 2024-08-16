@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanmacedo&color=blue" alt="Visualizações do perfil" /> </p>
 
-- 🧐 Desenvolvedor Full-Stack
+- 🧐 Desenvolvedor Full-Stack 
 
 - 🕵️‍♂️ Estou procurando um emprego
 
