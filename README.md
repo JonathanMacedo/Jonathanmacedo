@@ -1,6 +1,6 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Jonathan Macedo.</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanmacedo&color=blue" alt="Visualizações do perfil" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=jonathanmacedo&color=orange" alt="Visualizações do perfil"/></p>
 
 - 🧐 Desenvolvedor Full-Stack 
 
