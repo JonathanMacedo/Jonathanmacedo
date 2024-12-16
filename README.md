@@ -4,7 +4,7 @@
 
 - 🧐 Desenvolvedor Full-Stack 
 
-- 🤯 Conheço linguagens como React.js, Node.js, JavaScript, HTML, CSS, MySQL, MongoDB
+- 🤯 Domino linguagens como React.js, Node.js, JavaScript, HTML, CSS, MySQL, MongoDB
 
 - ✍ Postarei regularmente o que estou aprendendo
 
